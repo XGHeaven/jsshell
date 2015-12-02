@@ -1,0 +1,22 @@
+{
+  "name": "jsshell",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "supervisor index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.2.1",
+    "babel-preset-es2015": "^6.1.18",
+    "env-deploy": "^0.2.1"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  }
+}
