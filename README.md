@@ -28,7 +28,7 @@ Build-in command
 
 TODO
 ---
-[] other bash command(like rm, touch)
-[] support `.command`
-[] support options
-[] support tab, up, auto complete
+- [ ] other bash command(like rm, touch)
+- [ ] support `.command`
+- [ ] support options
+- [ ] support tab, up, auto complete
